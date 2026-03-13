@@ -5,14 +5,11 @@ KrishiSahay is a project that uses technology to help farmers in India. It focus
 
 ## Team Members
 
-[1.Arjun C](H4K3R13)  
-[2.Amal K](amalkanhangad)  
-[3.Vishnu Prakash J](vishnuprakash-777)  
-[4.Hariprasad G Yadhav](HARI-G-YADHAV)
+[1.T.Nandakishore](NandaKIshore6743)  
+[2.Athang Deshmukh](Athangdeshmukh)  
+[3.Naredla Madhava Phani Bhooshith Reddy](Madhava-ds)  
+[4.C.Sumanth](Sumanth-018)
 
-## How it Works ?
-
-[DEMO](https://youtube.com/shorts/Z3PhrI99rhQ?feature=share)
 
 ## Technologies used
 
@@ -115,6 +112,3 @@ In the Meta App Dashboard, go to WhatsApp > Configuration, then click the Edit b
 1. In the Edit webhook's callback URL popup, enter the URL provided by the ngrok agent to expose your application to the internet in the Callback URL field, with /webhook at the end (i.e. https://myexample.ngrok-free.app/webhook).
 2. Enter a verification token. This string is set up by you when you create your webhook endpoint. You can pick any string you like. Make sure to update this in your `VERIFY_TOKEN` environment variable.
 
-## Other Links
-
-[Presentation](https://drive.google.com/file/d/1jdGcqnBBMfPv0ovjnV8kqJdJP_kDLMHr/view?usp=sharing)
