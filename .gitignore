@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Sensitive data
+.env
+whatsapp_users.db
+threads_db.db
+threads_db.bak
+threads_db.dat
+threads_db.dir
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+temp.jpeg
+test_language_logic.py
