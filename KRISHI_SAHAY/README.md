@@ -9,6 +9,7 @@ KrishiSahay is a project that uses technology to help farmers in India. It focus
 [2.Athang Deshmukh](Athangdeshmukh)  
 [3.Naredla Madhava Phani Bhooshith Reddy](Madhava-ds)  
 [4.C.Sumanth](Sumanth-018)
+[5.Sai Prasad]
 
 
 ## Technologies used
