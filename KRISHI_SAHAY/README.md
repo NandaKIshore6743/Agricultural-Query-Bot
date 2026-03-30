@@ -9,6 +9,7 @@ KrishiSahay is a project that uses technology to help farmers in India. It focus
 [2.Athang Deshmukh](Athangdeshmukh)  
 [3.Naredla Madhava Phani Bhooshith Reddy](Madhava-ds)  
 [4.C.Sumanth](Sumanth-018)
+
 [5.Sai Prasad]
 
 
@@ -59,11 +60,6 @@ All the values can be found in the meta account
 
 ### Run locally
 
-Clone the repository
-
-```bash
-https://github.com/H4K3R13/KrishiSahay.git
-```
 
 Change the directory
 
